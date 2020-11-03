@@ -36,6 +36,7 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    4. [Acceso remoto a tu Raspberry usando NO-IP.com](./raspi/4) / [video](https://youtu.be/QW9Nzxrj0pY)
    5. [Flexget](https://github.com/pablokbs/plex-rpi) / [video](https://youtu.be/TqVoHWjz_tI)
    6. [Modo Kiosco](./raspi/6) / [video](https://youtu.be/PYxFGXGchLQ)
+   7. [Nginx + SSL en Raspberry](./raspi/7) / [video](https://youtu.be/Jua_Y-Q9lhk)
 
 3. Kubernetes
    1. [Creando un cluster de Kubernetes con Digital Ocean](./kubernetes/1) / [video](https://youtu.be/fhYSKEy0s8w)
@@ -61,12 +62,19 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    21. [kubeadm](./kubernetes/21) / [video](https://youtu.be/K6oFYgXgzv4)
    22. [Rancher](./kubernetes/22) / [video](https://youtu.be/74Qd1Kl79P8)
    23. [Jobs y Cronjobs](./kubernetes/23) / [video](https://youtu.be/9Dl-okb4gm4)
+   24. [Thanos](./kubernetes/24) / [video](https://youtu.be/NfP_8lsHXkU)
+   25. [HPA 2: Custom metrics](./kubernetes/25) / [video](https://youtu.be/whWFJNzBPu0)
 
 4. Varios
    1. [Creá tu sitio con SSL gratis con Docker y Let's encrypt](./varios/1) / [video](https://youtu.be/S2YFqf4L7l8)
    2. [Traefik](./varios/2) / [video](https://youtu.be/6qkhvhv0_IU)
    3. [Poste](./terraform/3) / [video](https://youtu.be/K4-uD1VHCz0)
    4. [Gitlab CI/CD](./streaming/2) / [video](https://youtu.be/c5T0UkuD-6g)
+   5. [Dia del SRE 3: Scrum](./varios/3) / [video](https://youtu.be/ehuKjT9xl0k)
+   6. [OpenVPN](./varios/6) / [video](https://youtu.be/Ulew2JHUHfE)
+   7. [Podman](./varios/7) / [video](https://youtu.be/l6Bgd7Y8pgE)
+   8. [GitHub Actions](https://github.com/pablokbs/prueba-gha) / [video](https://youtu.be/MNBf-ylhtK0)
+   9. [Transmission Bot para Telegram](./varios/9) / [video](https://youtu.be/FQMVFyJnQsY)
 
 5. Viernes 2 Minutos
    1. [Docker-compose override](./v2m/1) / [video](https://youtu.be/TPmbwAgN4ZA)
@@ -88,6 +96,18 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    18. [Init Containers](./v2m/18) / [video](https://youtu.be/a03oHbGUef4)
    19. [Netdata](./v2m/19) / [video](https://youtu.be/bGyMLNRBlQ0)
    20. [Matrix](./v2m/20) / [video](https://youtu.be/ZiVQalt5xhk)
+   21. [Kubernetes Dashboard](./v2m/21) / [video](https://youtu.be/B5r-_HHX31s)
+   22. [Netatalk / TimeMachine opensource](./v2m/22) / [video](https://youtu.be/LhlTG8LJ89Q)
+   23. [WireGuard](./v2m/23) / [video](https://youtu.be/G_Pv9XEzfUY)
+   24. [Cronopete](./v2m/24) / [video](https://youtu.be/DywhgMht2jQ)
+   25. [Vsftpd](./v2m/25) / [video](https://youtu.be/y9sPUF7vRC0)
+   26. [Rclone](./v2m/26) / [video](https://youtu.be/mnDYJ2ZpdxU)
+   27. [Portainer](./v2m/27) / [video](https://youtu.be/TSot5AnS-mk)
+   28. [GeoIP](./v2m/28) / [video](https://youtu.be/ZpEfjsJamcU)
+   29. [Swarmpit](./v2m/29) / [video](https://youtu.be/f2gmhiYBW8Y)
+   30. [Kompose](./v2m/30) / [video](https://youtu.be/JHdnasrZKyU)
+   31. [Cert-manager en Kubernetes](./v2m/31) / [video](https://youtu.be/ZKrC261Rxqo)
+   32. [Nginx-Proxy-Manager](./v2m/32) / [video](https://youtu.be/0n9DLj2ndo4)
 
 6. Terraform
    1. [Terraform 1](./terraform/1) / [video](https://youtu.be/1itPqkU8XZw)
